@@ -14,13 +14,13 @@ Research Interests: explainable question answering, dependency parsing, knowledg
 
 Publications
 ======
-Junqi Zhang (Advisor)*, Xixun Zhu, **Yuheng Wang**, MengChu Zhou. "Dual-Environmental Particle Swarm Optimizer in Noisy and Noise-free Environments", _IEEE Transactions on Cybernetics_, vol. 49, no. 6, pp. 2011-2021, 2019.
+Junqi Zhang (Advisor), Xixun Zhu, **Yuheng Wang**, MengChu Zhou. [Dual-Environmental Particle Swarm Optimizer in Noisy and Noise-free Environments](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8352135), _IEEE Transactions on Cybernetics_, vol. 49, no. 6, pp. 2011-2021, 2019.
 
-Junqi Zhang (Advisor)*, **Yuheng Wang**, Cheng Wang, MengChu Zhou. "Fast Variable Structure Stochastic Automaton for Discovering and Tracking Spatio-temporal Event Patterns",_IEEE Transactions on Cybernetics_, vol. 48, no. 3, pp. 890-903, 2018.
+Junqi Zhang (Advisor), **Yuheng Wang**, Cheng Wang, MengChu Zhou. [Fast Variable Structure Stochastic Automaton for Discovering and Tracking Spatio-temporal Event Patterns](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7892833), _IEEE Transactions on Cybernetics_, vol. 48, no. 3, pp. 890-903, 2018.
 
-Junqi Zhang (Advisor)*, **Yuheng Wang**, Cheng Wang, MengChu Zhou. "Symmetrical Hierarchical Stochastic Searching on the Line in Informative and Deceptive Environments". _IEEE Transactions on Cybernetics_, vol. 47, no. 3, pp.626-635, 2017.
+Junqi Zhang (Advisor), **Yuheng Wang**, Cheng Wang, MengChu Zhou. [Symmetrical Hierarchical Stochastic Searching on the Line in Informative and Deceptive Environments](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7428922), _IEEE Transactions on Cybernetics_, vol. 47, no. 3, pp.626-635, 2017.
 
-Junqi Zhang (Advisor)*, **Yuheng Wang**, MengChu Zhou. "Fast Adaptive Search on the Line in Dual Environments". In _Proceedings of 13th IEEE Conference on Automation Science and Engineering_, pp. 1540-1545, 2017.
+Junqi Zhang (Advisor), **Yuheng Wang**, MengChu Zhou. [Fast Adaptive Search on the Line in Dual Environments](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8256322), In _Proceedings of 13th IEEE Conference on Automation Science and Engineering_, pp. 1540-1545, 2017.
 
 Getting started
 ======
