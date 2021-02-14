@@ -25,3 +25,18 @@ Publications
 
 Misc.
 ======
+I am an enthusiastic movie-goer, who has been spent over 3,000 hours into the lives of others.
+
+My favorite directors are Theo Angelopoulos (Greece), Éric Rohmer (France), Ingmar Bergman (Sweden), and Zhangke Jia (China).
+
+Here's my personal Top 10 of All Time:
+- Ulysses' Gaze (1995)
+- Landscape in the Mist (1988)
+- Wild Strawberries (1957)
+- Alice in the Cities (1974)
+- Yearning (1964)
+- In the Mood for Love (2000)
+- I Am Cuba (1964)
+- Nights of Cabiria (1957)
+- Woman in the Dunes (1964)
+- Still Life (2006)
