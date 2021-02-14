@@ -26,7 +26,6 @@ Publications
 Misc.
 ======
 I am an enthusiastic movie-goer, who has spent over 3,000 hours into the lives of others.
-
 My favorite directors are Theo Angelopoulos (Greece), Éric Rohmer (France), Ingmar Bergman (Sweden), and Zhangke Jia (China).
 
 Here's my personal Top 10 of All Time:
