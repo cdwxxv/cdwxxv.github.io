@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yuheng Wang, currently a Ph.D. candidate in [Computer Science](https://www.cs.stonybrook.edu/) at Stony Brook University, co-advised by [Prof. Michael Kifer](https://www3.cs.stonybrook.edu/~kifer/) and [Prof. Paul Fodor](https://www3.cs.stonybrook.edu/~pfodor/). I use both Machine Learning and Logic Programming tools to solve problems in Natural Language Processing (particularly Question Answering) and Knowledge Representation. Before that, I obtained a M.S. degree in Computer Science at Tongji University, with focus on Learning Automata and Evolutionary Computing.
+My name is Yuheng Wang, currently a Ph.D. candidate in [Computer Science](https://www.cs.stonybrook.edu/) at Stony Brook University, co-advised by [Prof. Michael Kifer](https://www3.cs.stonybrook.edu/~kifer/) and [Prof. Paul Fodor](https://www3.cs.stonybrook.edu/~pfodor/). I use both Machine Learning and Logic Programming tools to solve problems in Natural Language Processing (particularly Question Answering) and Knowledge Representation. Before that, I obtained my M.S. degree in Computer Science at Tongji University, with focus on Learning Automata and Evolutionary Computing.
 
 Research Interests: explainable question answering, semantic parsing, knowledge authoring, inductive/deductive reasoning, logic programming.
 
